@@ -1,1 +1,0 @@
-# AURORA — SOAR Integrations Package
